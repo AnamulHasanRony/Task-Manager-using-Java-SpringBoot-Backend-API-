@@ -1,6 +1,6 @@
 # Task-Manager-using-Java-SpringBoot-Backend-API-
 
-**used technologies java srpingboot, mysql, spring jpa, some unit testing Junit5**
+**Used Technologies :  java Springboot, mysql, spring jpa, some unit testing Junit5**
 
 
 This project is a simple task manager java springboot backend API only 
